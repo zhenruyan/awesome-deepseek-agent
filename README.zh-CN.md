@@ -33,6 +33,7 @@
 | **Pi** | 极简且高度可扩展的终端编码框架，支持树状会话和自定义供应商。 | [指南](./docs/pi_mono.zh-CN.md) |
 | **Reasonix** | 运行在终端内的 DeepSeek 原生编程 Agent —— Cache-First 循环，原生支持 MCP。 | [指南](./docs/reasonix.zh-CN.md) |
 | **Langcli** | 100%兼容Claude code、支持Deepseek v4等主流LLM模型的开源AI 编程助手。 | [指南](./docs/langcli.zh-CN.md) |
+| **MothX（默思）** | 用纯 Go 编写的全能型终端 AI 编程助手，内置 20+ 供应商适配器、bwrap 沙箱、SQLite 会话、技能与 OpenAI 兼容 serve 模式。DeepSeek 为默认供应商。 | [指南](./docs/mothx.zh-CN.md) |
 | **DeepSeek-TUI** | 面向 DeepSeek-V4 的开源 Rust 终端编程助手 —— Codex 风格架构，沙箱化工具执行，内置 MCP 客户端与服务器，支持 100 万 token 上下文。 | [指南](./docs/deepseek-tui.zh-CN.md) |
 
 ## 相关资源
